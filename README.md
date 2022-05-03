@@ -32,4 +32,4 @@ go run main.go
 
 ## Author
 
-Made with ❤️ by 🤖 [Luca Georges François](https://github.com/PtitLuca) 🤖
+Made with ❤️ by 🤖 [Luca Georges François](https://github.com/0xpanoramix) 🤖
